@@ -161,7 +161,7 @@ top blog styles
 /* Media Queries */
 
 
-@media only screen and (max-width:850px){
+@media only screen and (max-width:950px){
     .container{
         width: 90%;
     }
@@ -174,7 +174,7 @@ top blog styles
         
 }
 @media only screen and (max-width:450px){
-    .player,.blog{
+    .blog{
         flex-direction: column;
     }
 }
